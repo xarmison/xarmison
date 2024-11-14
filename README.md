@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineer with a Master's degree in Electrical and Computer Engineering from the Federal University of Rio Grande do Norte. Currently working as a Data Scientist at Radix, specializing in the Energy, Oil, and Gas sectors. Actively engaged in research in the fields of machine learning, robotics, and computer vision.</p>
+<p align="left">I'm a Computer Engineer with a Master's degree in Electrical and Computer Engineering from the Federal University of Rio Grande do Norte. Currently working as a Data Scientist, specializing in the Energy, Oil, and Gas sectors. Actively engaged in research in the fields of machine learning, robotics, and computer vision.</p>
 
 ###
 
