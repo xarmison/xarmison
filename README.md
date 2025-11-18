@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineer with a Master's degree in Electrical and Computer Engineering from the Federal University of Rio Grande do Norte. Currently working as a Data Scientist, specializing in the Energy, Oil, and Gas sectors. Actively engaged in research in the fields of machine learning, robotics, and computer vision.</p>
+<p align="left">I'm a Computer Engineer with a Master's degree in Electrical and Computer Engineering from the Federal University of Rio Grande do Norte. Currently working as a Data Scientist and actively engaged in research in the fields of machine learning, robotics, and computer vision.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning advanced optimization techniques and reinforcement learning applications.<br>🎯 Goals: Continue driving innovation in machine learning and expand my expertise in AI-driven solutions.<br>🎲 Fun fact: I can analyze chess games with code but still struggle to beat my friends in a real match!</p>
+<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning advanced optimization techniques and reinforcement learning applications.<br>🎯 Goals: Continue driving innovation in machine learning and expand my expertise in AI-driven solutions.</p>
 
 ###
 
